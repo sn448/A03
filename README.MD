@@ -45,3 +45,7 @@ Uploading a project to a repository on GitHub:
 Synchronizing Github and computer files:
 1. Once you have made changes to the local file, you can merge it with the remote file by committing the change (VCS→ Git→ commit) then pushing to github (VSC→ git→ push)
 2. When you add to the github repository, you can merge with the local one through a pull request, or when you try to push a commit from a local to the remote repository, a dialog box will open and ask you to merge. 
+
+References:
+1. https://help.github.com/en/github/getting-started-with-github/github-glossary
+2. "Additional Instructions on Creating a Git and Github repository." by Dr. Art Hendela
